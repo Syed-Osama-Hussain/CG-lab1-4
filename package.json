@@ -1,0 +1,14 @@
+{
+  "name": "histogram",
+  "version": "1.0.0",
+  "description": "Displays a histogram of color frequency of an image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Osama Hussain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
